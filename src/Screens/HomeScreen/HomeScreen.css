@@ -1,0 +1,14 @@
+.home-container {
+    text-align: center;
+}
+
+.show-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+}
+
+.show-card img {
+    max-width: 100%;
+    height: auto;
+}
